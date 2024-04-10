@@ -1,3 +1,9 @@
 .txtverde{
     color: green;
 }
+
+.menu{
+    text-align: center;
+    background-color: darkgrey;
+    margin: -20 -20 -20 -20;
+}
